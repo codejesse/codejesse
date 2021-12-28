@@ -6,7 +6,7 @@
 
 # Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codejesse)](https://github.com/codejesse/github-readme-stats)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codejesse&theme=<THEME_NAME>" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codejesse&theme=<THEME_NAME>" />
 
 
 <!--
