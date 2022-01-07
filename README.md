@@ -4,7 +4,7 @@
 # Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> i'm Jesse Beke
 ##### I am a Front-End developer with 3+ years of web development experience browsing the web is my hobby and creating awesome web experiences🌎💻
 
-# Github Status
+# Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codejesse)](https://github.com/codejesse/github-readme-stats)
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codejesse&theme=<THEME_NAME>" />
 
