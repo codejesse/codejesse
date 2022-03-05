@@ -1,5 +1,3 @@
-![Jesse Header](https://user-images.githubusercontent.com/34540877/147515465-8ff51b1d-e42b-4006-804b-2583f2140d68.png)
-
 
 # Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> i'm Jesse Beke
 ##### I am a Front-End developer with 3+ years of web development experience browsing the web is my hobby and creating awesome web experiences🌎💻
