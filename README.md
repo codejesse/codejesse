@@ -6,6 +6,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codejesse)](https://github.com/codejesse/github-readme-stats)
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codejesse&theme=<THEME_NAME>" />
 
+# Jams
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd?si=acd6c7c22c9445ca)
 
 <!--
 **codejesse/codejesse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
