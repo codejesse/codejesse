@@ -1,5 +1,5 @@
 
-# Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> i'm Jesse Beke
+# Hello there i'm Jesse Beke
 ##### I am a Front-End developer with 3+ years of web development experience browsing the web is my hobby and creating awesome web experiences🌎💻
 
 # Github Stats
