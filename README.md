@@ -10,8 +10,6 @@
 [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd?si=acd6c7c22c9445ca)
 
 
-**codejesse/codejesse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <!-- - 🔭 I’m currently working on -->
 - 🌱 I’m currently learning Reactjs and Typscript
 - 👯 I’m looking to collaborate on open source web projects
