@@ -24,7 +24,7 @@ Always open to collaborating on projects and innovative/disruptive ideas. Feel f
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codejesse)](https://github.com/codejesse/github-readme-stats)
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codejesse&theme=<THEME_NAME>" />
 
-# Jams
+
 [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1EVHGWrwldPRtj)
 
 
