@@ -24,7 +24,7 @@ Always open to collaborating on projects and innovative/disruptive ideas. Feel f
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codejesse&theme=<THEME_NAME>" />
 
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1EVHGWrwldPRtj)
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1EVHGWrwldPRtj?si=f6a3c70ad6434eca)
 
 
 <!-- - 🔭 I’m currently working on -->
