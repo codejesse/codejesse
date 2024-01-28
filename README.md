@@ -9,7 +9,7 @@ Always open to collaborating on projects and innovative/disruptive ideas. Feel f
 
 
 ### ⚡ Technologies
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,figma,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,figma,ts,firebase)](https://skillicons.dev)
 
 # Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codejesse)](https://github.com/codejesse/github-readme-stats)
