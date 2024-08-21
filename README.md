@@ -16,12 +16,12 @@ Always open to collaborating on projects and innovative/disruptive ideas. Feel f
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codejesse&theme=<THEME_NAME>" />
 
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1EVHGWrwldPRtj?si=f6a3c70ad6434eca)
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/2UIedDM5r4I0ytpeIKXHnJ?si=3baa29d03e8a471b)
 
 
 <!-- - 🔭 I’m currently working on -->
-<!-- - 🌱 I’m currently learning Reactjs and Typscript -->
-<!-- - 👯 I’m looking to collaborate on open source web projects -->
+<!-- - 🌱 I’m currently learning Reactjs and Typescript -->
+<!-- - 👯 I’m looking to collaborate on open-source web projects -->
 <!-- -..Ask my name
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
