@@ -11,12 +11,12 @@ Always open to collaborating on projects and innovative/disruptive ideas. Feel f
 ### ⚡ Technologies
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,figma,nextjs,postgres,prisma,ts,firebase)](https://skillicons.dev)
 
-# Github Stats
+<!-- # Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codejesse)](https://github.com/codejesse/github-readme-stats)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codejesse&theme=<THEME_NAME>" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codejesse&theme=<THEME_NAME>" /> -->
 
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/2UIedDM5r4I0ytpeIKXHnJ?si=3baa29d03e8a471b)
+<!-- [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/2UIedDM5r4I0ytpeIKXHnJ?si=3baa29d03e8a471b) -->
 
 
 <!-- - 🔭 I’m currently working on -->
